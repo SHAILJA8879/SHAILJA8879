@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shailja Sharma</h1>
-<h3 align="center">aka LEOKAINAAT | B.Tech CSE Student | Building toward Cybersecurity 🛡️</h3>
+<h1 align="center">Hi 👋, I'm LEOXEOL</h1>
+<h3 align="center">aka SHAILJA | B.Tech CSE Student | Building toward Cybersecurity 🛡️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHAILJA8879&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
