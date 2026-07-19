@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20LEOXOEL%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&desc=aka%20SHAILJA%20|%20Future%20Red%20Teamer%20🛡️&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20LEOXOEL%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&desc=aka%20%20|%%%%20&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/SHAILJA8879">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+;2x+Google+Student+Ambassador;Founder+%40+InformationDoses;Aspiring+Security+Analyst+%E2%9E%9C+Pentester+%E2%9E%9C+Red+Teamer;Top+2%25+in+Prompt+Wars+(32%2C000%2B+participants);%23100DaysOfCode+with+Python+%F0%9F%90%8D" alt="Typing SVG" />
