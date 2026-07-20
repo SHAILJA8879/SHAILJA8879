@@ -16,7 +16,7 @@
 
 <br>
 
-## 🧠 About Me
+## 🧠 Who am i?
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/gifs/coding.gif">
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHAILJA8879&show_icons=true&theme=tokyonight&border_radius=10" />
