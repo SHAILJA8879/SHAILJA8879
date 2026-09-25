@@ -1,30 +1,62 @@
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!--                     HERO SECTION                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=220&section=header&text=Shailja%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111827,60:312E81,100:06B6D4&height=280&section=header&text=SHAILJA%20SHARMA&fontSize=58&fontAlignY=38&fontColor=FFFFFF&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20CLOUD&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0;Creating+Full-Stack+Projects+%F0%9F%92%BB;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Hello%2C+I'm+Shailja+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+Explorer+%F0%9F%A7%A0;Hackathon+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9A%A1"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SHAILJA8879&label=Profile%20Views&color=2575FC&style=for-the-badge" />
+<a href="https://github.com/SHAILJA8879">
+<img src="https://img.shields.io/github/followers/SHAILJA8879?label=Followers&style=for-the-badge&color=06B6D4&labelColor=050816"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SHAILJA8879&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED&labelColor=050816"/>
+
+<a href="https://github.com/SHAILJA8879?tab=repositories">
+<img src="https://img.shields.io/github/stars/SHAILJA8879?label=Stars&style=for-the-badge&color=F59E0B&labelColor=050816"/>
+</a>
 
 </div>
 
+<br>
+
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ========================================================= -->
+<!--                    ABOUT ME                              -->
+<!-- ========================================================= -->
 
-## 🧠 About Me
+<div align="center">
+
+## 🧠 `WHO AM I?`
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+### 👋 Hey there!
+
+I'm **Shailja Sharma**, a Computer Science Engineering student passionate about building things with **AI, software and technology**.
+
+I enjoy taking an idea from:
 
 ```text
-🎓 Computer Science Engineering Student
-🤖 AI / ML & Generative AI Enthusiast
-💻 Full-Stack Developer
-☁️ Exploring Cloud & DevOps
-🔐 Interested in Cybersecurity
-🏆 Hackathon & Project Enthusiast
-🚀 Always building something new
+💡 IDEA
+   ↓
+🧠 RESEARCH
+   ↓
+⚙️ DEVELOPMENT
+   ↓
+🤖 AI / AUTOMATION
+   ↓
+☁️ DEPLOYMENT
+   ↓
+🚀 REAL PROJECT
