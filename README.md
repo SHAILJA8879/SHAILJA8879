@@ -15,3 +15,30 @@
 <img src="https://img.shields.io/badge/STATUS-BUILDING-06B6D4?style=for-the-badge&labelColor=020617"/>
 
 </div>
+<br>
+
+<div align="center">
+
+## `// SYSTEM PROFILE`
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%">
+
+```text
+╔══════════════════════════════════╗
+║          IDENTITY CORE           ║
+╠══════════════════════════════════╣
+║                                  ║
+║  NAME      : Shailja Sharma      ║
+║  ROLE      : CSE Student         ║
+║  DOMAIN    : AI / ML             ║
+║  MODE      : BUILDING            ║
+║  LOCATION  : INDIA 🇮🇳           ║
+║                                  ║
+║  STATUS    : ● ONLINE            ║
+║                                  ║
+╚══════════════════════════════════╝
