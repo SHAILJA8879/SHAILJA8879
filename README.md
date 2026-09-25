@@ -1,26 +1,22 @@
-<!-- ========================================================= -->
-<!--                     HERO SECTION                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111827,60:312E81,100:06B6D4&height=280&section=header&text=Leoxoel&fontSize=58&fontAlignY=38&fontColor=FFFFFF&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20CLOUD&descAlignY=58&descSize=20&animation=fadeIn"/>
+<!-- ===================== ANIMATED HEADER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:172554,60:4C1D95,100:06B6D4&height=280&section=header&text=LEOXOEL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20CLOUD&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Hello%2C+I'm+Shailja+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+Explorer+%F0%9F%A7%A0;Hackathon+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9A%A1"/>
+<!-- ===================== TYPING ===================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Hey%2C+I'm+Shailja+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+Explorer+%F0%9F%A7%A0;Hackathon+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9A%A1"/>
 
 <br><br>
 
-<a href="https://github.com/SHAILJA8879">
-<img src="https://img.shields.io/github/followers/SHAILJA8879?label=Followers&style=for-the-badge&color=06B6D4&labelColor=050816"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=SHAILJA8879&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED&labelColor=050816"/>
 
-<a href="https://github.com/SHAILJA8879?tab=repositories">
-<img src="https://img.shields.io/github/stars/SHAILJA8879?label=Stars&style=for-the-badge&color=F59E0B&labelColor=050816"/>
-</a>
+<img src="https://img.shields.io/github/followers/SHAILJA8879?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=050816"/>
+
+<img src="https://img.shields.io/github/stars/SHAILJA8879?label=STARS&style=for-the-badge&color=F59E0B&labelColor=050816"/>
 
 </div>
 
@@ -28,149 +24,111 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                    ABOUT ME                              -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧠 `WHO AM I?`
-
-</div>
+# 🧠 WHO AM I?
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="58%">
 
 ### 👋 Hey there!
 
-I'm **Shailja Sharma**, a Computer Science Engineering student passionate about building things with **AI, software and technology**.
+I'm **Shailja Sharma**, a Computer Science Engineering student who loves turning ideas into real-world technology.
 
-I enjoy taking an idea from:
+I'm currently exploring the intersection of:
+
+**Artificial Intelligence + Software Development + Cloud**
+
+I enjoy building projects that combine intelligent systems, modern web technologies and practical problem solving.
 
 ```text
 💡 IDEA
    ↓
 🧠 RESEARCH
    ↓
-⚙️ DEVELOPMENT
+⚙️ BUILD
    ↓
-🤖 AI / AUTOMATION
+🤖 ADD INTELLIGENCE
    ↓
-☁️ DEPLOYMENT
+☁️ DEPLOY
    ↓
-🚀 REAL PROJECT
-
-I'm especially interested in Artificial Intelligence, Machine Learning, Generative AI, Full-Stack Development, Cloud Computing and Cybersecurity.
-
-</td> <td width="45%">
-┌─────────────────────────────┐
-│       SYSTEM STATUS         │
-├─────────────────────────────┤
-│                             │
-│  🟢 Learning        ACTIVE  │
-│  🟢 Building        ACTIVE  │
-│  🟢 Exploring       ACTIVE  │
-│  🟢 Experimenting   ACTIVE  │
-│                             │
-│  AI/ML       ███████░░ 75%  │
-│  Python      ████████░ 85%  │
-│  Web Dev     ███████░░ 70%  │
-│  Cloud       █████░░░░ 55%  │
-│  DSA         █████░░░░ 55%  │
-│                             │
-└─────────────────────────────┘
+🚀 SHIP
+</td> <td width="42%">
+╔════════════════════════════╗
+║       SYSTEM STATUS        ║
+╠════════════════════════════╣
+║                            ║
+║  🟢 LEARNING      ACTIVE   ║
+║  🟢 BUILDING      ACTIVE   ║
+║  🟢 EXPLORING     ACTIVE   ║
+║  🟢 EXPERIMENTING ACTIVE   ║
+║                            ║
+║  AI / ML    ███████░░ 75%  ║
+║  PYTHON     ████████░ 85%  ║
+║  WEB DEV    ███████░░ 70%  ║
+║  CLOUD      █████░░░░ 55%  ║
+║  DSA        █████░░░░ 55%  ║
+║                            ║
+╚════════════════════════════╝
 </td> </tr> </table>
-<!-- ========================================================= --> <!-- CURRENT MISSION --> <!-- ========================================================= --> <div align="center">
-🎯 CURRENT MISSION
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+Deep+Learning;Exploring+Generative+AI;Improving+DSA+skills;Building+Full-Stack+projects;Exploring+Cloud+%26+DevOps"/> </div> <br> <table> <tr> <td align="center" width="25%">
-🤖
-AI / ML
-
-Machine Learning
-Deep Learning
-Computer Vision
-Generative AI
-
-</td> <td align="center" width="25%">
-💻
-DEVELOPMENT
-
-React
-Node.js
-Express
-REST APIs
-
-</td> <td align="center" width="25%">
-☁️
-CLOUD
-
-Google Cloud
-Docker
-Cloud Run
-DevOps
-
-</td> <td align="center" width="25%">
-🔐
-SECURITY
-
-Cybersecurity
-Networking
-Security Fundamentals
-Ethical Hacking
-
-</td> </tr> </table>
-<!-- ========================================================= --> <!-- TECH STACK --> <!-- ========================================================= --> <div align="center">
-⚡ TECH ARSENAL
-👨‍💻 Languages
+⚡ MY TECH UNIVERSE
+<div align="center">
+👨‍💻 PROGRAMMING
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6"/>
-🤖 AI / Machine Learning
+
+<br><br>
+
+🤖 AI / MACHINE LEARNING
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6"/>
-🌐 Web Development
+
+<br><br>
+
+🌐 FULL STACK
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&perline=6"/>
-☁️ Cloud / DevOps
+
+<br><br>
+
+☁️ CLOUD / DEVOPS
 <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux&perline=6"/>
-🗄️ Databases
+
+<br><br>
+
+🗄️ DATABASE
 <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb&perline=6"/> </div>
-<!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
 🚀 FEATURED PROJECTS
 <table> <tr> <td width="50%">
 🤖 Handwritten Digit Recognition
 
-Deep Learning based handwritten digit classification.
+Deep-learning project capable of recognizing handwritten digits using computer vision and neural networks.
 
 Features
 
-✍️ Handwritten digit prediction
-🧠 Neural network model
-🖼️ Image preprocessing
+✍️ Digit prediction
+🧠 Neural network
+🖼️ Image processing
 📊 Model evaluation
-
-Stack
 
 Python TensorFlow NumPy OpenCV
 
-<br> <a href="https://github.com/SHAILJA8879"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%">
+</td> <td width="50%">
 🧠 Nexus AI
 
-AI-powered executive task orchestration platform.
+AI-powered executive task orchestration platform designed to manage intelligent requests and workflows.
 
 Features
 
 🔐 Authentication
 👥 Role-based dashboards
 🤖 AI-assisted requests
-📋 Task orchestration
+📋 Task management
 ☁️ Cloud deployment
-
-Stack
 
 React Node.js Prisma SQLite Docker
 
-<br> <a href="https://github.com/SHAILJA8879"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%">
+</td> </tr> <tr> <td width="50%">
 🏥 MEDIVA
 
-Healthcare management platform.
+Healthcare management platform for patient records, consultation and healthcare services.
 
 Features
 
@@ -178,114 +136,76 @@ Features
 🩺 Consultation
 🩸 Blood availability
 📊 Health tracking
-🔐 User management
 
-Stack
-
-HTML CSS JavaScript Node.js Express
+JavaScript Node.js Express
 
 </td> <td width="50%">
 🌡️ Heatwave Early Warning
 
-AI + GIS based extreme heatwave monitoring system.
+AI + GIS based system for detecting extreme heat conditions and assessing human thermal stress.
 
 Features
 
-🌡️ Thermal stress analysis
+🌡️ Heat monitoring
 🗺️ GIS visualization
 🤖 ML prediction
 ⚠️ Risk assessment
-📱 Early warning system
 
-Stack
-
-React FastAPI XGBoost PostgreSQL GIS
+React FastAPI XGBoost PostgreSQL
 
 </td> </tr> </table>
-<!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= --> <div align="center">
+🎯 CURRENTLY BUILDING
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Learning+Deep+Learning;Exploring+Generative+AI;Improving+DSA;Building+Full-Stack+Projects;Exploring+Cloud+%26+DevOps"/> </div> <br>
+🤖 AI / ML	💻 Development	☁️ Cloud	🔐 Security
+Deep Learning	React	Google Cloud	Cybersecurity
+Computer Vision	Node.js	Docker	Networking
+Generative AI	REST APIs	Cloud Run	Security
+Python	Full Stack	DevOps	Ethical Hacking
+🏆 HACKATHONS & ACTIVITIES
+<div align="center"> <img src="https://img.shields.io/badge/🚀_Smart_India_Hackathon-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/🌌_NASA_Space_Apps-06B6D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/🤖_Google_AI_Programs-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/☁️_Google_Cloud-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/💻_AI%2FML_Internship-10B981?style=for-the-badge"/> </div>
+🧭 MY LEARNING JOURNEY
+                     ┌─────────────────────┐
+                     │     SHAILJA 🚀      │
+                     │    BUILD / LEARN    │
+                     └──────────┬──────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             ↓                  ↓                  ↓
+        🤖 ARTIFICIAL       💻 SOFTWARE        ☁️ CLOUD
+        INTELLIGENCE        DEVELOPMENT         COMPUTING
+             │                  │                  │
+             ↓                  ↓                  ↓
+       Deep Learning         React              GCP
+       Computer Vision       Node.js            Docker
+       Generative AI         APIs               DevOps
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ↓
+                         🚀 PROJECTS
+                                ↓
+                         🏆 HACKATHONS
+                                ↓
+                         🌍 OPEN SOURCE
+🌱 CURRENT LEARNING
+<div align="center"> <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/> <img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Cybersecurity-10B981?style=for-the-badge"/> </div>
 📊 GITHUB COMMAND CENTER
-<br> <img height="190" src="https://github-readme-stats.vercel.app/api?username=SHAILJA8879&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=FFFFFF"/> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAILJA8879&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF"/>
+<div align="center"> <img height="190" src="https://github-readme-stats.vercel.app/api?username=SHAILJA8879&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A78BFA&text_color=FFFFFF"/> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAILJA8879&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=FFFFFF"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SHAILJA8879&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE"/> </div>
-<!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= --> <div align="center">
-📈 CONTRIBUTION MATRIX
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAILJA8879&bg_color=050816&color=22D3EE&line=7C3AED&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=Shailja's%20Coding%20Activity"/> </div>
-<!-- ========================================================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================================================= --> <div align="center">
+<img width="65%" src="https://streak-stats.demolab.com?user=SHAILJA8879&theme=dark&hide_border=true&background=050816&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE"/> </div>
+📈 CONTRIBUTION ACTIVITY
+<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHAILJA8879&bg_color=050816&color=22D3EE&line=7C3AED&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=SHAILJA'S%20CODING%20ACTIVITY"/> </div>
 🐍 CONTRIBUTION SNAKE
-<img src="https://raw.githubusercontent.com/SHAILJA8879/SHAILJA8879/output/github-contribution-grid-snake-dark.svg"/> </div>
-<!-- ========================================================= --> <!-- ACHIEVEMENTS --> <!-- ========================================================= -->
-🏆 ACHIEVEMENTS & ACTIVITIES
-<table> <tr> <td align="center" width="33%">
-🚀
-
-Hackathons
-
-Smart India Hackathon
-NASA Space Apps Challenge
-AI / GenAI Hackathons
-
-</td> <td align="center" width="33%">
-🤖
-
-AI Programs
-
-Google AI Programs
-GenAI Academy
-AI / ML Internship
-
-</td> <td align="center" width="33%">
-☁️
-
-Cloud
-
-Google Cloud
-Cloud Run
-Docker
-DevOps Learning
-
-</td> </tr> </table>
-<!-- ========================================================= --> <!-- LEARNING ROADMAP --> <!-- ========================================================= -->
-🧭 MY LEARNING ROADMAP
-                    ┌───────────────────┐
-                    │     CURRENT       │
-                    │    SHAILJA 🚀     │
-                    └─────────┬─────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             ↓                ↓                ↓
-        🤖 AI / ML       💻 DEVELOPMENT     ☁️ CLOUD
-             │                │                │
-        Deep Learning      React             GCP
-        Computer Vision    Node.js           Docker
-        GenAI              APIs               DevOps
-             │                │                │
-             └────────────────┼────────────────┘
-                              ↓
-                       🚀 BUILD PROJECTS
-                              ↓
-                       🏆 HACKATHONS
-                              ↓
-                       🌍 OPEN SOURCE
-<!-- ========================================================= --> <!-- CURRENTLY LEARNING --> <!-- ========================================================= --> <div align="center">
-🌱 CURRENTLY LEARNING
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/> <img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cybersecurity-10B981?style=for-the-badge"/> </div>
-<!-- ========================================================= --> <!-- DEV PHILOSOPHY --> <!-- ========================================================= --> <div align="center">
-💭 DEVELOPER PHILOSOPHY
-<br> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-<br><br>
-
-Code. Learn. Build. Fail. Debug. Repeat. 🚀
-</div>
-<!-- ========================================================= --> <!-- PROFILE TERMINAL --> <!-- ========================================================= -->
-💻 ~/shailja/profile
-$ whoami
+<div align="center"> <img src="https://raw.githubusercontent.com/SHAILJA8879/SHAILJA8879/output/github-contribution-grid-snake-dark.svg" width="90%"/> </div>
+💻 TERMINAL
+┌──(shailja㉿github)-[~/profile]
+└─$ whoami
 
 Shailja Sharma
 
-$ cat interests.txt
+┌──(shailja㉿github)-[~/profile]
+└─$ cat interests.txt
 
 Artificial Intelligence
 Machine Learning
@@ -295,64 +215,37 @@ Cloud Computing
 Cybersecurity
 Hackathons
 
-$ status
+┌──(shailja㉿github)-[~/profile]
+└─$ status
 
-[██████████████████████░░] BUILDING
+[██████████████████████░░] BUILDING...
 
-$ mission
+┌──(shailja㉿github)-[~/profile]
+└─$ mission
 
 Turn ideas into useful technology.
 
-$ next
+┌──(shailja㉿github)-[~/profile]
+└─$ next
 
-Keep learning. Keep building. Keep shipping. 🚀
-<!-- ========================================================= --> <!-- CONNECT --> <!-- ========================================================= --> <div align="center">
-🌐 LET'S CONNECT
-<br> <a href="https://github.com/SHAILJA8879"> <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+LEARN → BUILD → BREAK → DEBUG → SHIP 🚀
+💭 DEVELOPER MINDSET
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80"/> </div>
-<!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050816&height=150&section=footer&animation=fadeIn"/> </div> ```
-🐍 One extra thing: make the contribution snake actually move
+⚡ Code. Learn. Build. Fail. Debug. Repeat.
+</div>
+🌐 CONNECT WITH ME
+<div align="center"> <a href="https://github.com/SHAILJA8879"> <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-The snake section requires a small GitHub Action. Otherwise that image won't exist yet.
+<br><br>
 
-Create this file in your profile repository:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Keep+learning.+Keep+building.+Keep+shipping.+%E2%9A%A1"/> </div> <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:4C1D95,70:172554,100:050816&height=160&section=footer&animation=fadeIn"/> </div> ```
+⚠️ Only change these 3 things
 
-.github/
-└── workflows/
-    └── snake.yml
+At the bottom replace:
 
-Put this inside snake.yml:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: SHAILJA8879
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+YOUR_LINKEDIN_URL
+YOUR_PORTFOLIO_URL
+YOUR_EMAIL
